@@ -1,3 +1,4 @@
 # git-github-demo
 
-Workshop repo
+workshop repo for the demo
+
