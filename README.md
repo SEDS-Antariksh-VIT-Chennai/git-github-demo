@@ -7,4 +7,13 @@ workshop repo for the demo
 example: `- <name>`
 
 - Lenin
+- Raazi Faisal
+- Ratish R A 
+- Mohammad Shahzil
+- Vibha
+- Laxmi 
+- Soham
 - Jeshma
+- Dilnawaz Hossain
+- Dev
+- anushka
