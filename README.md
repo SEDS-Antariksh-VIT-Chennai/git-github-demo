@@ -8,9 +8,7 @@ example: `- <name>`
 
 - Lenin
 - Raazi Faisal
--Ratish R A 
-
+- Ratish R A 
 - Mohammad Shahzil
-
 - Dilnawaz Hossain
-
+- anushka
