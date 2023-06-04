@@ -5,3 +5,5 @@ workshop repo for the demo
 ## Add your name
 
 example: `- <name>`
+
+- Lenin
