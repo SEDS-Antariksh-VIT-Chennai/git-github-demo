@@ -7,4 +7,4 @@ workshop repo for the demo
 example: `- <name>`
 
 - Lenin
-- Devv
+- Dev
