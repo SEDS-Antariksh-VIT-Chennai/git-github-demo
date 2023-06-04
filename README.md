@@ -6,5 +6,16 @@ workshop repo for the demo
 
 example: `- <name>`
 
-- lenin
+- Lenin
+- Raazi Faisal
+- Ratish R A 
+- Mohammad Shahzil
+- Vibha
+- Laxmi 
+- Soham
+- Jeshma
+- Srinivas
 - girish
+- Dilnawaz Hossain
+- Dev
+- anushka
