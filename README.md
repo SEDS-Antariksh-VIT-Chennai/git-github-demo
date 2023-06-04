@@ -7,4 +7,8 @@ workshop repo for the demo
 example: `- <name>`
 
 - Lenin
-- Vibha
+
+-Ratish R A 
+
+- Mohammad Shahzil
+-Vibha
