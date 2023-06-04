@@ -10,6 +10,7 @@ example: `- <name>`
 - Raazi Faisal
 - Ratish R A 
 - Mohammad Shahzil
+- Vibha
 - Dilnawaz Hossain
 - Dev
 - anushka
