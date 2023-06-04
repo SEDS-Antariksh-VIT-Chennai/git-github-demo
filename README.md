@@ -6,4 +6,9 @@ workshop repo for the demo
 
 example: `- <name>`
 
+- Lenin
+- Raazi Faisal
+- Ratish R A 
+- Mohammad Shahzil
+- Dilnawaz Hossain
 - anushka
