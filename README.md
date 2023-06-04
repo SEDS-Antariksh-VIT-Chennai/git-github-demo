@@ -12,6 +12,7 @@ example: `- <name>`
 - Mohammad Shahzil
 - Vibha
 - Laxmi 
+- Soham
 - Dilnawaz Hossain
 - Dev
 - anushka
