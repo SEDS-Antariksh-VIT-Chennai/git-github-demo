@@ -15,6 +15,7 @@ example: `- <name>`
 - Soham
 - Jeshma
 - Srinivas
+- girish
 - Dilnawaz Hossain
 - Dev
 - anushka
