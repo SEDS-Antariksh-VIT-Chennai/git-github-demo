@@ -6,4 +6,4 @@ workshop repo for the demo
 
 example: `- <name>`
 
-- Lenin
+- dharshi
