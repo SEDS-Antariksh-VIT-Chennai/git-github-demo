@@ -11,6 +11,7 @@ example: `- <name>`
 - Ratish R A 
 - Mohammad Shahzil
 - Vibha
+- Laxmi 
 - Dilnawaz Hossain
 - Dev
 - anushka
