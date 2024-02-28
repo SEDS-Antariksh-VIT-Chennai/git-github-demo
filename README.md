@@ -19,3 +19,4 @@ example: `- <name>`
 - Dev
 - anushka
 - dharshi
+- lenin
