@@ -21,4 +21,3 @@ example: `- <name>`
 - dharshi
 - lenin
 - Sree Vidhya
-- 
