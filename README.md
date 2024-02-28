@@ -20,5 +20,5 @@ example: `- <name>`
 - anushka
 - dharshi
 - lenin
+- Ayush Acharya1
 - Sree Vidhya
-
